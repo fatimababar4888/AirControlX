@@ -51,11 +51,6 @@ AirControlX is a multithreaded, multiprocess simulation of air traffic control d
 
 ---
 
-## 📷 Demo Preview
-
-> Coming soon: GIF or screenshots showing the flight simulation and AVN dashboard in action!
-
----
 
 ## ⚙️ Setup Instructions
 
